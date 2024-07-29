@@ -19,8 +19,8 @@ def lengthOfStory(story1):
     print("\nThe length of story is :", len(story1))
     numOfLines = 0
     
-    for i in story1:
-        if i
+    #for i in story1:
+        #if i
 
 def numOfCapitalLetter(story1):
     lower = 0
@@ -74,7 +74,7 @@ def spCharInStory(story1):
 #story = input("Write the story : \n")
 print(story)
 print("\n=============================================================================")
-lengthOfStory(story)
+#lengthOfStory(story)
 numOfCapitalLetter(story)
 numOfWords(story)
 digitInStory(story)
